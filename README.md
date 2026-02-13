@@ -3,6 +3,9 @@
 This project is an end-to-end data engineering portfolio build that simulates a real-world e-commerce analytics platform. It implements a local lakehouse + warehouse pattern using Docker and WSL2, and models analytics data using a Gold-layer star schema.
 
 ## Architecture (V1)
+
+![V1 Workflow](docs/architecture/workflow_v1.png)
+
 - **Bronze (raw):** source CSV files loaded as-is into Postgres bronze tables and stored in MinIO under `bronze/ecom/raw/`
 - **Silver (clean):** typed/casted tables (dates, numerics, booleans)
 - **Gold (analytics):** star schema (dimensions + fact table) optimized for BI-style queries

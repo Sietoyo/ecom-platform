@@ -5,9 +5,9 @@ This project is an end-to-end data engineering portfolio build that simulates a 
 ## Architecture (V1)
 
 ## Results (V1)
-- Total delivered revenue: **<PASTE_NUMBER_HERE>**
-- Top category by delivered revenue: **<PASTE_CATEGORY + NUMBER>**
-- Top customer segment by delivered revenue: **<PASTE_SEGMENT + NUMBER>**
+- Total delivered revenue: **8,739,337.18**
+- Top category by delivered revenue: **Books — 1,015,234.95**
+- Top customer segment by delivered revenue: **Consumer — 5,990,753.26**
 
 
 ![V1 Workflow](docs/architecture/workflow_v1.png)

@@ -5,9 +5,9 @@ This project is an end-to-end data engineering portfolio build that simulates a 
 ## Architecture (V1)
 
 ## Results (V1)
-- Total delivered revenue: **8,739,337.18**
-- Top category by delivered revenue: **Books — 1,015,234.95**
-- Top customer segment by delivered revenue: **Consumer — 5,990,753.26**
+- Total delivered revenue: **,739,337.18 USD (simulated)**
+- Top category by delivered revenue: **Books — ,015,234.95 USD (simulated)**
+- Top customer segment by delivered revenue: **Consumer — ,990,753.26 USD (simulated)**
 
 
 ![V1 Workflow](docs/architecture/workflow_v1.png)

@@ -8,6 +8,9 @@ This project is an end-to-end data engineering portfolio build that simulates a 
 - **Gold (analytics):** star schema (dimensions + fact table) optimized for BI-style queries
 
 ## Data model (Gold star schema)
+
+![Gold Star Schema](docs/architecture/gold_star_schema.png)
+
 **Fact table**
 - `gold.fact_sales` (grain: 1 row per order item)
 

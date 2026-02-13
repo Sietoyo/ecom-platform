@@ -4,6 +4,12 @@ This project is an end-to-end data engineering portfolio build that simulates a 
 
 ## Architecture (V1)
 
+## Results (V1)
+- Total delivered revenue: **<PASTE_NUMBER_HERE>**
+- Top category by delivered revenue: **<PASTE_CATEGORY + NUMBER>**
+- Top customer segment by delivered revenue: **<PASTE_SEGMENT + NUMBER>**
+
+
 ![V1 Workflow](docs/architecture/workflow_v1.png)
 
 - **Bronze (raw):** source CSV files loaded as-is into Postgres bronze tables and stored in MinIO under `bronze/ecom/raw/`
